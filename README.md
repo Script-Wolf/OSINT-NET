@@ -10,5 +10,5 @@ pip3 install urllib.parse
 
 How to use:
 
-cd OSINT-NET
+cd OSINT-NET / 
 python3 osint-net.py

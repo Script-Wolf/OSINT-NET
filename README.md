@@ -6,3 +6,9 @@ pip3 install BeautifulSoup
 pip3 install beautifulsoup4
 pip3 install bs4
 pip3 install urllib.parse
+
+
+How to use:
+
+cd OSINT-NET
+python3 osint-net.py
